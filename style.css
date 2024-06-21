@@ -9,10 +9,17 @@ body {
 }
 
 #quiz-container {
-    width: 300px;
+    width: 69vh;
+    height: 40vh;
     text-align: center;
+    background-color: blueviolet;
+    border-radius: 0px 52px 0px 52px;
+    border: 4px solid black;
 }
-
+div#question {
+    font-size: x-large;
+    font-family: system-ui;
+}
 .btn {
     cursor: pointer;
     border: none;
@@ -20,6 +27,7 @@ body {
     padding: 10px 20px;
     margin: 10px 0;
     font-size: 16px;
+    box-shadow: 2px 4px 11px 3px bl
 }
 
 .btn:hover {

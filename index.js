@@ -26,48 +26,48 @@ const questions = [
         ]
     },
     {
-        question: 'What is the capital of France?',
+        question: 'What is name of Creater?',
         answers: [
-            { text: 'Berlin', correct: false },
-            { text: 'Madrid', correct: false },
-            { text: 'Paris', correct: true },
-            { text: 'Rome', correct: false }
+            { text: 'Sandeep', correct: true },
+            { text: 'Anupam', correct: false },
+            { text: 'Rohan', correct: false },
+            { text: 'Sohan', correct: false }
+        ]
+    },
+    {
+        question: 'What is the value 2 & 3 = ?',
+        answers: [
+            { text: '5', correct: false },
+            { text: '6', correct: false },
+            { text: '2', correct: true },
+            { text: '3', correct: false }
+        ]
+    },
+    {
+        question: 'What is this ?',
+        answers: [
+            { text: 'Nothing', correct: false },
+            { text: 'Game App ', correct: false },
+            { text: 'Qize App', correct: true },
+            { text: 'Palying App', correct: false }
+        ]
+    },
+    {
+        question: 'Full form of HTML?',
+        answers: [
+            { text: 'Hypertext Markup Language', correct: true },
+            { text: 'Hypertext Markup Languageses', correct: false },
+            { text: 'Hypertext Markups Language', correct: false },
+            { text: 'Hypertexts Markup Language', correct: false }
         ]
     },
     {
         question: 'What is the capital of France?',
         answers: [
-            { text: 'Berlin', correct: false },
-            { text: 'Madrid', correct: false },
-            { text: 'Paris', correct: true },
-            { text: 'Rome', correct: false }
-        ]
-    },
-    {
-        question: 'What is the capital of France?',
-        answers: [
-            { text: 'Berlin', correct: false },
-            { text: 'Madrid', correct: false },
-            { text: 'Paris', correct: true },
-            { text: 'Rome', correct: false }
-        ]
-    },
-    {
-        question: 'What is the capital of France?',
-        answers: [
-            { text: 'Berlin', correct: false },
-            { text: 'Madrid', correct: false },
-            { text: 'Paris', correct: true },
-            { text: 'Rome', correct: false }
-        ]
-    },
-    {
-        question: 'What is the capital of France?',
-        answers: [
-            { text: 'Berlin', correct: false },
-            { text: 'Madrid', correct: false },
-            { text: 'Paris', correct: true },
-            { text: 'Rome', correct: false }
+            { text: 'Cascading Style Sheetsn', correct: false },
+            { text: 'Cascad Style Sheets', correct: false },
+            { text: 'Cascading Styless Sheets', correct: true },
+            { text: 'Cascading Supere Sheets', correct: false }
         ]
     }
 ];
